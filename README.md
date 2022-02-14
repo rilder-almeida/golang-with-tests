@@ -18,7 +18,7 @@
 
 - [X] Maps - Learn about storing values in the map data structure.
 
-- [ ] Dependency Injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
+- [X] Dependency Injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
 
 - [ ] Mocking - Take some existing untested code and use DI with mocking to test it.
 
