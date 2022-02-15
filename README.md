@@ -20,7 +20,7 @@
 
 - [X] Dependency Injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
 
-- [ ] Mocking - Take some existing untested code and use DI with mocking to test it.
+- [X] Mocking - Take some existing untested code and use DI with mocking to test it.
 
 - [ ] Concurrency - Learn how to write concurrent code to make your software faster.
 
