@@ -26,7 +26,7 @@
 
 - [X] Select - Learn how to synchronise asynchronous processes elegantly.
 
-- [ ] Reflection - Learn about reflection
+- [X] Reflection - Learn about reflection
 
 - [ ] Sync - Learn some functionality from the sync package including WaitGroup and Mutex
 
