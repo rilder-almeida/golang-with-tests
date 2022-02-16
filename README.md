@@ -24,7 +24,7 @@
 
 - [X] Concurrency - Learn how to write concurrent code to make your software faster.
 
-- [ ] Select - Learn how to synchronise asynchronous processes elegantly.
+- [X] Select - Learn how to synchronise asynchronous processes elegantly.
 
 - [ ] Reflection - Learn about reflection
 
