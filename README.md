@@ -22,7 +22,7 @@
 
 - [X] Mocking - Take some existing untested code and use DI with mocking to test it.
 
-- [ ] Concurrency - Learn how to write concurrent code to make your software faster.
+- [X] Concurrency - Learn how to write concurrent code to make your software faster.
 
 - [ ] Select - Learn how to synchronise asynchronous processes elegantly.
 

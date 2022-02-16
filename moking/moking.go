@@ -1,9 +1,8 @@
-package main
+package moking
 
 import (
 	"fmt"
 	"io"
-	"os"
 	"time"
 )
 
@@ -25,10 +24,10 @@ func (c *ConfigurableSleeper) Sleep() {
 	c.sleep(c.duration)
 }
 
-func main() {
-	sleeper := &ConfigurableSleeper{1 * time.Second, time.Sleep}
-	Countdown(os.Stdout, sleeper)
-}
+// func main() {
+// 	sleeper := &ConfigurableSleeper{1 * time.Second, time.Sleep}
+// 	Countdown(os.Stdout, sleeper)
+// }
 
 func Countdown(out io.Writer, sleeper Sleeper) {
 	for i := countdownStart; i > 0; i-- {
